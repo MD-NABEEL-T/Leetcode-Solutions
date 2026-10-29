@@ -36,8 +36,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0205-isomorphic-strings](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 <!---LeetCode Topics End-->
