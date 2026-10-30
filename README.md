@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0205-isomorphic-strings](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0796-rotate-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -46,8 +47,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0796-rotate-string/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
