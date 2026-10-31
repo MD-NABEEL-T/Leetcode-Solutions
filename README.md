@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0204-count-primes](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
