@@ -1,5 +1,5 @@
 class Solution {
-    public int majorityElement(int[] nums) {
+   /* public int majorityElement(int[] nums) {
         // brute force approach use two for loops
 
         // better approach is hashing = hashmap
@@ -12,5 +12,24 @@ class Solution {
         }
         return -1;
         
+    }
+    */
+
+    public int majorityElement(int[] nums){
+        int candidate=0;
+        int count=0;
+        for(int el:nums){
+            if(count==0){
+                candidate=el;
+                count++;
+            }
+            else if(el==candidate){
+                count++;
+            }
+            else{
+                count--;
+            }
+        }
+        return candidate;
     }
 }
