@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0048-rotate-image](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0169-majority-element](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
