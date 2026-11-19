@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
