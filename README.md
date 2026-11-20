@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
+| [0229-majority-element-ii](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0229-majority-element-ii](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 ## String Matching
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
@@ -121,10 +124,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
