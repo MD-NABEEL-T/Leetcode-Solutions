@@ -21,22 +21,39 @@
 // }
 
 // better solution O(n^2)
-class Solution {
-    public int maxProduct(int[] nums) {
-        int max=Integer.MIN_VALUE;
-        for(int i=0;i<nums.length;i++){
-            int value=1;
-            for(int j=i;j<nums.length;j++){
-                value*=nums[j];
-                if(max<value)max=value;
-            }
-        }
-        return max;
-    }
-}
+// class Solution {
+//     public int maxProduct(int[] nums) {
+//         int max=Integer.MIN_VALUE;
+//         for(int i=0;i<nums.length;i++){
+//             int value=1;
+//             for(int j=i;j<nums.length;j++){
+//                 value*=nums[j];
+//                 if(max<value)max=value;
+//             }
+//         }
+//         return max;
+//     }
+// }
 
 // optimal solution O(n)
 // observation:
 // 1 , all positive => multiply everyone
 // 2 , even -ve multiply 
 // 3 , odd -ve 
+
+class Solution{
+    public int maxProduct(int[] nums){
+        int max=Integer.MIN_VALUE;
+        int prefix=1;
+        int suffix=1;
+        for(int i=0;i<nums.length;i++){
+            prefix*=nums[i];
+            suffix*=nums[nums.length-i-1];
+            if(prefix>max){max=prefix;}
+            if(suffix>max){max=suffix;}
+            if(prefix==0){prefix=1;}
+            if(suffix==0){suffix=1;}
+        }
+        return max;
+    }
+}
