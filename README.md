@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
@@ -189,4 +191,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
