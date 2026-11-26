@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [0560-subarray-sum-equals-k](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Math
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -198,4 +200,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/MD-NABEEL-T/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
